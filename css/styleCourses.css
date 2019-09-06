@@ -1,0 +1,41 @@
+body{ background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    background-repeat: no-repeat;
+    background-size: cover;}
+.courses{
+    background-image:url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    width: 100%;
+    display: flex;
+    color: white;
+    padding: 100px 0px;
+margin-bottom: 30px;
+background-size: cover;
+background-position: center;
+justify-content: center;}
+.images{display: flex;
+    justify-content: space-around; 
+    margin-bottom: 20px;
+   }
+   .liens{ display:flex;
+    justify-content: space-around;
+        flex-direction: row;
+        text-decoration-line: underline;
+        text-decoration-color: red;} 
+h1{ color: white}
+.but button{
+    position:absolute;
+    display: none;
+}
+.but{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{color: black}
+
+.imgs{
+margin-top: 20px;
+}

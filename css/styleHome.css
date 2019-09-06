@@ -1,0 +1,29 @@
+body{
+    background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);}
+    
+    .item{
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+        text-decoration-line: underline;
+        text-decoration-color: red;
+    }
+    .images{ width: 100%}
+    .TXT{ color: white}
+    .img3{ display: flex;
+        justify-content: space-around;
+    }
+    .but{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .but button{
+        position:absolute;
+        display: none;
+    }
